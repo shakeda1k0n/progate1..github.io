@@ -1,1 +1,1 @@
-# progate1..github.io
+# progate1.github.io
